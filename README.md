@@ -1,9 +1,9 @@
 ## 📋 <a name="table">Table of Contents</a>
 
-1. ⚙️ [Tech Stack](#tech-stack)
-2. 🔋 [Features](#features)
-3. 🤸 [Quick Start](#quick-start)
-4. 🔗 [Links](#links)
+1. [Tech Stack](#tech-stack)
+2. [Features](#features)
+3. [Quick Start](#quick-start)
+4. [Links](#links)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -12,15 +12,9 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
+👉 **Theming**:Explored techniques to add different themes to your website using Tailwind CSS.
 
-👉 **Understanding Tailwind Internals**: Dive into the inner workings of Tailwind, gaining insights into its structure and optimizations.
-
-👉 **Best Practices**: Learn Tailwind's best practices for efficient and maintainable code.
-
-👉 **Theming**:Explore techniques to add different themes to your website using Tailwind CSS.
-
-👉 **JavaScript-like Tasks with Tailwind**: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
+👉 **JavaScript-like Tasks with Tailwind**: Discovered how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
 
 while building a beautiful Nike Website with a,
 
@@ -39,8 +33,6 @@ while building a beautiful Nike Website with a,
 👉 **Footer**: A comprehensive footer section containing various links
 
 👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
-
-and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
