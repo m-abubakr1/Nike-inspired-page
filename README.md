@@ -1,16 +1,16 @@
-## 📋 <a name="table">Table of Contents</a>
+## <a name="table">Table of Contents</a>
 
 1. [Tech Stack](#tech-stack)
 2. [Features](#features)
 3. [Quick Start](#quick-start)
 4. [Links](#links)
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">Tech Stack</a>
 
 - Tailwind CSS (V3)
 - React.js
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 **Theming**:Explored techniques to add different themes to your website using Tailwind CSS.
 
@@ -34,7 +34,7 @@ while building a beautiful Nike Website with a,
 
 👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -68,6 +68,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="links">🔗 Links</a>
+## <a name="links">Links</a>
 
 - [Tailwind Play](https://play.tailwindcss.com/)
