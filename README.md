@@ -12,9 +12,9 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Theming**:Explored techniques to add different themes to your website using Tailwind CSS.
+**Theming**:Explored techniques to add different themes to your website using Tailwind CSS.
 
-👉 **JavaScript-like Tasks with Tailwind**: Discovered how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
+**JavaScript-like Tasks with Tailwind**: Discovered how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
 
 while building a beautiful Nike Website with a,
 
