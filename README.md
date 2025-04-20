@@ -7,7 +7,7 @@
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Tailwind CSS
+- Tailwind CSS (V3)
 - React.js
 
 ## <a name="features">🔋 Features</a>
